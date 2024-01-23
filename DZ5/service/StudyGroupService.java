@@ -1,9 +1,9 @@
 package DZ5.service;
 
 
-import OOP.Seminar_5.model.Student;
-import OOP.Seminar_5.model.StudyGroup;
-import OOP.Seminar_5.model.Teacher;
+import DZ5.model.Student;
+import DZ5.model.StudyGroup;
+import DZ5.model.Teacher;
 
 import java.util.List;
 

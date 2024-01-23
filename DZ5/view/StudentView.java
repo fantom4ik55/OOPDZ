@@ -1,6 +1,6 @@
 package DZ5.view;
 
-import OOP.Seminar_5.model.Student;
+import DZ5.model.Student;
 
 public class StudentView {
     public void printOnConsole(Student student) {

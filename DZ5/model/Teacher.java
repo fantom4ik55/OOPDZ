@@ -1,5 +1,8 @@
 package DZ5.model;
 
+import java.time.LocalDate;
+import java.util.Comparator;
+
 public class Teacher extends User {
 
     Integer teacherId;
@@ -23,4 +26,5 @@ public class Teacher extends User {
                 "teacherId=" + teacherId +
                 '}';
     }
-}
+
+}   

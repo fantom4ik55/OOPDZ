@@ -4,7 +4,7 @@ import DZ5.model.*;
 import DZ5.service.DataService;
 import DZ5.view.StudentView;
 import DZ5.view.TeacherView;
-import DZ5.service.StudyGroupServiDZ5
+import DZ5.service.StudyGroupService;
 
 import java.util.List;
 
